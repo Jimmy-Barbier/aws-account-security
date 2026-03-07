@@ -101,7 +101,7 @@ Compte AWS
 
 > **Pourquoi :** AWS facture à l'usage. Une erreur de configuration, une instance oubliée ou une attaque de type cryptojacking peuvent générer des coûts importants en quelques heures. Une alerte à 80% du seuil défini permet d'agir avant d'atteindre la limite.
 
-- Création d'un budget mensuel à **5$** dans **Billing → Budgets**
+- Création d'un budget mensuel à **1$** dans **Billing → Budgets**
 - Alerte email configurée à **80%** du budget
 
 ![Budget et alerte configurés](assets/08-budget-alerte.png)
